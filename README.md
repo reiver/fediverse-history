@@ -35,6 +35,20 @@ But if you want to skip the influences that led up to the Fediverse, a good star
 
 ## Timeline
 
+### Year 1993
+
+* Eternal September
+
+### Year 1994
+
+### Year 1995
+
+### Year 1996
+
+### Year 1997
+
+### Year 1998
+
 ### Year 1999
 
 ### Year 2000
@@ -82,5 +96,7 @@ But if you want to skip the influences that led up to the Fediverse, a good star
 ### Year 2021
 
 ### Year 2022
+
+* Eternal November
 
 ### Year 2023
